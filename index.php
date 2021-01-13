@@ -11,10 +11,10 @@
         <input type="text" name="num2">
         <select name="cal">
             <option value="add">Add</option>
-            <option value="subtract">Subtract</option>
-            <option value="multiply">Multiply</option>
-            <button type="submit">Calculate</button>
+            <option value="sub">Subtract</option>
+            <option value="mul">Multiply</option>
         </select>
+        <button type="submit">Calculate</button>
     </form>
 </body>
 </html>
